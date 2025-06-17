@@ -3,6 +3,7 @@
 在 PC 上完成 ONNX 模型导出和 axmodel 模型编译。
 
 ## 安装依赖
+注意：需要python版本为3.9，3.11版本在onnxsim时会报错：The model does not have an ir_version set properly.
 
 ```
 git clone https://github.com/BUG1989/sd1.5-lcm.axera.git
